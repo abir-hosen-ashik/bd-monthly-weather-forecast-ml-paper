@@ -1,0 +1,219 @@
+analysis,Target,Model,scaling,Seed,test_R2,C,gamma,inner_MSE,hidden,alpha
+scaling,Temperature,SVR,none,0.0,-0.00848064666087267,,,,,
+scaling,Temperature,SVR,minmax,0.0,0.9544764010873285,,,,,
+scaling,Temperature,SVR,standard,0.0,0.9496656127731874,,,,,
+scaling,Temperature,KNN,none,0.0,0.5251476945624839,,,,,
+scaling,Temperature,KNN,minmax,0.0,0.9441068423269301,,,,,
+scaling,Temperature,KNN,standard,0.0,0.8939647799744515,,,,,
+scaling,Temperature,MLP,none,0.0,0.5735693558709385,,,,,
+scaling,Temperature,MLP,none,1.0,0.40963235022825084,,,,,
+scaling,Temperature,MLP,none,2.0,0.6174410832432066,,,,,
+scaling,Temperature,MLP,none,3.0,0.4863293069125233,,,,,
+scaling,Temperature,MLP,none,4.0,0.7631473782003368,,,,,
+scaling,Temperature,MLP,none,5.0,0.46307917995026227,,,,,
+scaling,Temperature,MLP,none,6.0,0.2376404352889725,,,,,
+scaling,Temperature,MLP,none,7.0,0.38186745361388263,,,,,
+scaling,Temperature,MLP,none,8.0,0.6114852995139629,,,,,
+scaling,Temperature,MLP,none,9.0,0.02973639668678474,,,,,
+scaling,Temperature,MLP,minmax,0.0,0.9600811176512016,,,,,
+scaling,Temperature,MLP,minmax,1.0,0.9678093874119685,,,,,
+scaling,Temperature,MLP,minmax,2.0,0.9517572517116217,,,,,
+scaling,Temperature,MLP,minmax,3.0,0.9569779223481123,,,,,
+scaling,Temperature,MLP,minmax,4.0,0.9560644968904646,,,,,
+scaling,Temperature,MLP,minmax,5.0,0.9652119987553438,,,,,
+scaling,Temperature,MLP,minmax,6.0,0.9617355188674346,,,,,
+scaling,Temperature,MLP,minmax,7.0,0.9635250610783466,,,,,
+scaling,Temperature,MLP,minmax,8.0,0.9658014945830591,,,,,
+scaling,Temperature,MLP,minmax,9.0,0.9463814448613583,,,,,
+scaling,Temperature,MLP,standard,0.0,0.9687777867356618,,,,,
+scaling,Temperature,MLP,standard,1.0,0.963056232494241,,,,,
+scaling,Temperature,MLP,standard,2.0,0.9622480777859126,,,,,
+scaling,Temperature,MLP,standard,3.0,0.9589705324983574,,,,,
+scaling,Temperature,MLP,standard,4.0,0.9551843542540324,,,,,
+scaling,Temperature,MLP,standard,5.0,0.9661713871400853,,,,,
+scaling,Temperature,MLP,standard,6.0,0.9576829006012554,,,,,
+scaling,Temperature,MLP,standard,7.0,0.9665242734931281,,,,,
+scaling,Temperature,MLP,standard,8.0,0.9596054690355555,,,,,
+scaling,Temperature,MLP,standard,9.0,0.9519468911973622,,,,,
+scaling,Rainfall,SVR,none,0.0,0.3631882850726774,,,,,
+scaling,Rainfall,SVR,minmax,0.0,0.7725560440662935,,,,,
+scaling,Rainfall,SVR,standard,0.0,0.8924008320153463,,,,,
+scaling,Rainfall,KNN,none,0.0,0.7655912582741695,,,,,
+scaling,Rainfall,KNN,minmax,0.0,0.7919480504183481,,,,,
+scaling,Rainfall,KNN,standard,0.0,0.8153278167854702,,,,,
+scaling,Rainfall,MLP,none,0.0,0.6880614081061948,,,,,
+scaling,Rainfall,MLP,none,1.0,0.554420735274463,,,,,
+scaling,Rainfall,MLP,none,2.0,0.7369314217113119,,,,,
+scaling,Rainfall,MLP,none,3.0,0.7006917782007613,,,,,
+scaling,Rainfall,MLP,none,4.0,0.6871064158457434,,,,,
+scaling,Rainfall,MLP,none,5.0,0.6044174793242681,,,,,
+scaling,Rainfall,MLP,none,6.0,0.7094846459713631,,,,,
+scaling,Rainfall,MLP,none,7.0,0.5779859576422997,,,,,
+scaling,Rainfall,MLP,none,8.0,0.5852918902144497,,,,,
+scaling,Rainfall,MLP,none,9.0,0.8069001820246382,,,,,
+scaling,Rainfall,MLP,minmax,0.0,0.7847548877717848,,,,,
+scaling,Rainfall,MLP,minmax,1.0,0.7957785747885399,,,,,
+scaling,Rainfall,MLP,minmax,2.0,0.7791187167206453,,,,,
+scaling,Rainfall,MLP,minmax,3.0,0.7718643841038437,,,,,
+scaling,Rainfall,MLP,minmax,4.0,0.7753100380845899,,,,,
+scaling,Rainfall,MLP,minmax,5.0,0.767073116587473,,,,,
+scaling,Rainfall,MLP,minmax,6.0,0.7533142483370889,,,,,
+scaling,Rainfall,MLP,minmax,7.0,0.7528653765001154,,,,,
+scaling,Rainfall,MLP,minmax,8.0,0.8037447052984732,,,,,
+scaling,Rainfall,MLP,minmax,9.0,0.8157978502777528,,,,,
+scaling,Rainfall,MLP,standard,0.0,0.9094349849381431,,,,,
+scaling,Rainfall,MLP,standard,1.0,0.8832227693942649,,,,,
+scaling,Rainfall,MLP,standard,2.0,0.8680491897767103,,,,,
+scaling,Rainfall,MLP,standard,3.0,0.8901265770984937,,,,,
+scaling,Rainfall,MLP,standard,4.0,0.9018971382116384,,,,,
+scaling,Rainfall,MLP,standard,5.0,0.8807198498411458,,,,,
+scaling,Rainfall,MLP,standard,6.0,0.8607236435439887,,,,,
+scaling,Rainfall,MLP,standard,7.0,0.8801806478503038,,,,,
+scaling,Rainfall,MLP,standard,8.0,0.8508496728561002,,,,,
+scaling,Rainfall,MLP,standard,9.0,0.8267540361713941,,,,,
+svr_surface,Temperature,,,,0.19274823507053085,0.1,0.001,11.60453335192769,,
+svr_surface,Temperature,,,,0.5736171875142844,0.1,0.01,6.316490874411431,,
+svr_surface,Temperature,,,,0.8483030992832786,0.1,0.1,2.494788281927198,,
+svr_surface,Temperature,,,,0.5887990660803866,0.1,1.0,5.449152571844703,,
+svr_surface,Temperature,,,,0.028755475736861325,0.1,10.0,13.412774167985074,,
+svr_surface,Temperature,,,,0.5719133850348942,1.0,0.001,6.313660230188781,,
+svr_surface,Temperature,,,,0.8580429561322257,1.0,0.01,2.4803106284561562,,
+svr_surface,Temperature,,,,0.9480156205875075,1.0,0.1,1.0197288663239896,,
+svr_surface,Temperature,,,,0.8570455596484354,1.0,1.0,2.2553863682420636,,
+svr_surface,Temperature,,,,0.19015702322198003,1.0,10.0,10.513098180205343,,
+svr_surface,Temperature,,,,0.8104348134391405,10.0,0.001,3.0878707947634747,,
+svr_surface,Temperature,,,,0.9534116018957051,10.0,0.01,0.9981148283704021,,
+svr_surface,Temperature,,,,0.9643055360751357,10.0,0.1,0.9614030173633825,,
+svr_surface,Temperature,,,,0.832113602803956,10.0,1.0,2.268928104658733,,
+svr_surface,Temperature,,,,0.19452290316959775,10.0,10.0,10.413953667339232,,
+svr_surface,Temperature,,,,0.8973141312806691,100.0,0.001,1.877280787316873,,
+svr_surface,Temperature,,,,0.9430096757655171,100.0,0.01,0.82779896379184,,
+svr_surface,Temperature,,,,0.9496656127731874,100.0,0.1,1.4680690583926945,,
+svr_surface,Temperature,,,,0.608982316087112,100.0,1.0,4.301732010119985,,
+svr_surface,Temperature,,,,0.19452290316959775,100.0,10.0,10.413953667339232,,
+svr_surface,Temperature,,,,0.9508685398754254,1000.0,0.001,0.9990133401173463,,
+svr_surface,Temperature,,,,0.9327803767396233,1000.0,0.01,1.003647642956062,,
+svr_surface,Temperature,,,,0.8420241902187265,1000.0,0.1,2.9684359609194355,,
+svr_surface,Temperature,,,,0.3441807418773851,1000.0,1.0,6.615832933824568,,
+svr_surface,Temperature,,,,0.19452290316959775,1000.0,10.0,10.413953667339232,,
+mlp_surface,Temperature,,,0.0,0.9517781603307605,,,,"(16,)",0.0001
+mlp_surface,Temperature,,,1.0,0.9305564832973066,,,,"(16,)",0.0001
+mlp_surface,Temperature,,,2.0,0.9552959580196692,,,,"(16,)",0.0001
+mlp_surface,Temperature,,,0.0,0.9518292977249376,,,,"(16,)",0.01
+mlp_surface,Temperature,,,1.0,0.9307033124419419,,,,"(16,)",0.01
+mlp_surface,Temperature,,,2.0,0.9553045829953497,,,,"(16,)",0.01
+mlp_surface,Temperature,,,0.0,0.9511993571945992,,,,"(16,)",0.1
+mlp_surface,Temperature,,,1.0,0.9238876615513524,,,,"(16,)",0.1
+mlp_surface,Temperature,,,2.0,0.9556190504438988,,,,"(16,)",0.1
+mlp_surface,Temperature,,,0.0,0.9539854128830337,,,,"(16,)",1.0
+mlp_surface,Temperature,,,1.0,0.9382698910432465,,,,"(16,)",1.0
+mlp_surface,Temperature,,,2.0,0.9524241507888991,,,,"(16,)",1.0
+mlp_surface,Temperature,,,0.0,0.9680883140283036,,,,"(32,)",0.0001
+mlp_surface,Temperature,,,1.0,0.9503034241354202,,,,"(32,)",0.0001
+mlp_surface,Temperature,,,2.0,0.9481888964515316,,,,"(32,)",0.0001
+mlp_surface,Temperature,,,0.0,0.9681066335798235,,,,"(32,)",0.01
+mlp_surface,Temperature,,,1.0,0.9502320483200318,,,,"(32,)",0.01
+mlp_surface,Temperature,,,2.0,0.9482482618484529,,,,"(32,)",0.01
+mlp_surface,Temperature,,,0.0,0.9682512166764805,,,,"(32,)",0.1
+mlp_surface,Temperature,,,1.0,0.9507974411750353,,,,"(32,)",0.1
+mlp_surface,Temperature,,,2.0,0.9489640996582627,,,,"(32,)",0.1
+mlp_surface,Temperature,,,0.0,0.9688343517066207,,,,"(32,)",1.0
+mlp_surface,Temperature,,,1.0,0.9559026351691711,,,,"(32,)",1.0
+mlp_surface,Temperature,,,2.0,0.956054062653046,,,,"(32,)",1.0
+mlp_surface,Temperature,,,0.0,0.9687777867356618,,,,"(100, 50)",0.0001
+mlp_surface,Temperature,,,1.0,0.963056232494241,,,,"(100, 50)",0.0001
+mlp_surface,Temperature,,,2.0,0.9622480777859126,,,,"(100, 50)",0.0001
+mlp_surface,Temperature,,,0.0,0.9685882230233482,,,,"(100, 50)",0.01
+mlp_surface,Temperature,,,1.0,0.9623692635890879,,,,"(100, 50)",0.01
+mlp_surface,Temperature,,,2.0,0.9633751313392036,,,,"(100, 50)",0.01
+mlp_surface,Temperature,,,0.0,0.96737692954956,,,,"(100, 50)",0.1
+mlp_surface,Temperature,,,1.0,0.9615111054240206,,,,"(100, 50)",0.1
+mlp_surface,Temperature,,,2.0,0.9685206638882947,,,,"(100, 50)",0.1
+mlp_surface,Temperature,,,0.0,0.9704821743693998,,,,"(100, 50)",1.0
+mlp_surface,Temperature,,,1.0,0.9623555196433257,,,,"(100, 50)",1.0
+mlp_surface,Temperature,,,2.0,0.9711054013705734,,,,"(100, 50)",1.0
+mlp_surface,Temperature,,,0.0,0.956445846330132,,,,"(100, 100)",0.0001
+mlp_surface,Temperature,,,1.0,0.9643611914220105,,,,"(100, 100)",0.0001
+mlp_surface,Temperature,,,2.0,0.9625889540278563,,,,"(100, 100)",0.0001
+mlp_surface,Temperature,,,0.0,0.9617970984762119,,,,"(100, 100)",0.01
+mlp_surface,Temperature,,,1.0,0.9648294750314591,,,,"(100, 100)",0.01
+mlp_surface,Temperature,,,2.0,0.9622443764721089,,,,"(100, 100)",0.01
+mlp_surface,Temperature,,,0.0,0.9496649248782835,,,,"(100, 100)",0.1
+mlp_surface,Temperature,,,1.0,0.9714760676051151,,,,"(100, 100)",0.1
+mlp_surface,Temperature,,,2.0,0.9618752190539402,,,,"(100, 100)",0.1
+mlp_surface,Temperature,,,0.0,0.9685221433225624,,,,"(100, 100)",1.0
+mlp_surface,Temperature,,,1.0,0.9733768542855076,,,,"(100, 100)",1.0
+mlp_surface,Temperature,,,2.0,0.9701511334549581,,,,"(100, 100)",1.0
+svr_surface,Rainfall,,,,0.32428593741737655,0.1,0.001,38087.85775591219,,
+svr_surface,Rainfall,,,,0.8015973364498759,0.1,0.01,14361.786470190464,,
+svr_surface,Rainfall,,,,0.8640512387579272,0.1,0.1,8656.363578433313,,
+svr_surface,Rainfall,,,,0.6474955200936336,0.1,1.0,20395.952925417037,,
+svr_surface,Rainfall,,,,0.03868347445826936,0.1,10.0,47427.235388504,,
+svr_surface,Rainfall,,,,0.7968705650831125,1.0,0.001,14476.204828317866,,
+svr_surface,Rainfall,,,,0.8480763418775894,1.0,0.01,6733.941887107636,,
+svr_surface,Rainfall,,,,0.8403041998206224,1.0,0.1,6302.1245815513,,
+svr_surface,Rainfall,,,,0.8635336735588768,1.0,1.0,11327.86208537926,,
+svr_surface,Rainfall,,,,0.37508627046081733,1.0,10.0,33690.55350464182,,
+svr_surface,Rainfall,,,,0.8321078889075996,10.0,0.001,8657.823741094824,,
+svr_surface,Rainfall,,,,0.8029306272165513,10.0,0.01,5428.414157090298,,
+svr_surface,Rainfall,,,,0.8822291234916629,10.0,0.1,8994.542673311238,,
+svr_surface,Rainfall,,,,0.7286219239177796,10.0,1.0,15220.640394902877,,
+svr_surface,Rainfall,,,,0.38701444772977467,10.0,10.0,30877.988943691118,,
+svr_surface,Rainfall,,,,0.8354954536415726,100.0,0.001,6212.159109912838,,
+svr_surface,Rainfall,,,,0.7734084324772408,100.0,0.01,6341.155099227124,,
+svr_surface,Rainfall,,,,0.8924008320153463,100.0,0.1,15445.873813779517,,
+svr_surface,Rainfall,,,,0.2217844901937468,100.0,1.0,33751.008098057115,,
+svr_surface,Rainfall,,,,0.38701444772977467,100.0,10.0,30877.988943691118,,
+svr_surface,Rainfall,,,,0.7930255564344564,1000.0,0.001,5414.740053996802,,
+svr_surface,Rainfall,,,,0.7865113014460768,1000.0,0.01,8905.26254998043,,
+svr_surface,Rainfall,,,,0.7980023498234321,1000.0,0.1,24835.036799653233,,
+svr_surface,Rainfall,,,,-1.5676545357609655,1000.0,1.0,63135.86571512073,,
+svr_surface,Rainfall,,,,0.38701444772977467,1000.0,10.0,30877.988943691118,,
+mlp_surface,Rainfall,,,0.0,0.7104558774983568,,,,"(16,)",0.0001
+mlp_surface,Rainfall,,,1.0,0.7343987486971242,,,,"(16,)",0.0001
+mlp_surface,Rainfall,,,2.0,0.7353928700358007,,,,"(16,)",0.0001
+mlp_surface,Rainfall,,,0.0,0.7104533705035563,,,,"(16,)",0.01
+mlp_surface,Rainfall,,,1.0,0.7342302030920345,,,,"(16,)",0.01
+mlp_surface,Rainfall,,,2.0,0.7356445852850666,,,,"(16,)",0.01
+mlp_surface,Rainfall,,,0.0,0.7130947477965162,,,,"(16,)",0.1
+mlp_surface,Rainfall,,,1.0,0.7322304437604175,,,,"(16,)",0.1
+mlp_surface,Rainfall,,,2.0,0.7376380162774847,,,,"(16,)",0.1
+mlp_surface,Rainfall,,,0.0,0.737221916096598,,,,"(16,)",1.0
+mlp_surface,Rainfall,,,1.0,0.7499738404617831,,,,"(16,)",1.0
+mlp_surface,Rainfall,,,2.0,0.7432767643249193,,,,"(16,)",1.0
+mlp_surface,Rainfall,,,0.0,0.7701128878419916,,,,"(32,)",0.0001
+mlp_surface,Rainfall,,,1.0,0.7402503844857016,,,,"(32,)",0.0001
+mlp_surface,Rainfall,,,2.0,0.7268017559216814,,,,"(32,)",0.0001
+mlp_surface,Rainfall,,,0.0,0.7698510510515737,,,,"(32,)",0.01
+mlp_surface,Rainfall,,,1.0,0.7410367921192658,,,,"(32,)",0.01
+mlp_surface,Rainfall,,,2.0,0.7270108014215639,,,,"(32,)",0.01
+mlp_surface,Rainfall,,,0.0,0.7688083638003164,,,,"(32,)",0.1
+mlp_surface,Rainfall,,,1.0,0.7641065917489925,,,,"(32,)",0.1
+mlp_surface,Rainfall,,,2.0,0.7309626854714659,,,,"(32,)",0.1
+mlp_surface,Rainfall,,,0.0,0.7685361312539467,,,,"(32,)",1.0
+mlp_surface,Rainfall,,,1.0,0.770109311954174,,,,"(32,)",1.0
+mlp_surface,Rainfall,,,2.0,0.7770470264579032,,,,"(32,)",1.0
+mlp_surface,Rainfall,,,0.0,0.9094349849381431,,,,"(100, 50)",0.0001
+mlp_surface,Rainfall,,,1.0,0.8832227693942649,,,,"(100, 50)",0.0001
+mlp_surface,Rainfall,,,2.0,0.8680491897767103,,,,"(100, 50)",0.0001
+mlp_surface,Rainfall,,,0.0,0.9117996343777913,,,,"(100, 50)",0.01
+mlp_surface,Rainfall,,,1.0,0.8660544496449328,,,,"(100, 50)",0.01
+mlp_surface,Rainfall,,,2.0,0.8985020614249521,,,,"(100, 50)",0.01
+mlp_surface,Rainfall,,,0.0,0.8666898685505209,,,,"(100, 50)",0.1
+mlp_surface,Rainfall,,,1.0,0.8686612178811736,,,,"(100, 50)",0.1
+mlp_surface,Rainfall,,,2.0,0.8866529903415848,,,,"(100, 50)",0.1
+mlp_surface,Rainfall,,,0.0,0.7945481370587903,,,,"(100, 50)",1.0
+mlp_surface,Rainfall,,,1.0,0.7721111885651462,,,,"(100, 50)",1.0
+mlp_surface,Rainfall,,,2.0,0.7801407618477542,,,,"(100, 50)",1.0
+mlp_surface,Rainfall,,,0.0,0.8577820356099078,,,,"(100, 100)",0.0001
+mlp_surface,Rainfall,,,1.0,0.8671142457613006,,,,"(100, 100)",0.0001
+mlp_surface,Rainfall,,,2.0,0.9098747176390442,,,,"(100, 100)",0.0001
+mlp_surface,Rainfall,,,0.0,0.8810653990674793,,,,"(100, 100)",0.01
+mlp_surface,Rainfall,,,1.0,0.8622059687960952,,,,"(100, 100)",0.01
+mlp_surface,Rainfall,,,2.0,0.9100925773946282,,,,"(100, 100)",0.01
+mlp_surface,Rainfall,,,0.0,0.8889225006759855,,,,"(100, 100)",0.1
+mlp_surface,Rainfall,,,1.0,0.8984704244098385,,,,"(100, 100)",0.1
+mlp_surface,Rainfall,,,2.0,0.8333150483943155,,,,"(100, 100)",0.1
+mlp_surface,Rainfall,,,0.0,0.7938518497811586,,,,"(100, 100)",1.0
+mlp_surface,Rainfall,,,1.0,0.7749824517857932,,,,"(100, 100)",1.0
+mlp_surface,Rainfall,,,2.0,0.7812662686952634,,,,"(100, 100)",1.0

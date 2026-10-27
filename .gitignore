@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+raw_data/
+manuscript/
+*.docx
+.venv/

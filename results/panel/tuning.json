@@ -1,0 +1,1964 @@
+[
+ {
+  "Target": "Rainfall",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 0.1
+  },
+  "inner_MSE": 16290.31021171391
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 1
+  },
+  "inner_MSE": 16290.771866151457
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 10
+  },
+  "inner_MSE": 16295.914704999617
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 100
+  },
+  "inner_MSE": 16380.814966416654
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "Ridge",
+  "best": {
+   "alpha": 0.1
+  },
+  "best_inner_MSE": 16290.31021171391,
+  "tuning_seconds": 1.0677782660350204
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 25986.429470526375
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 23402.496759426536
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 3,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 17257.489328619427
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 21270.70812428924
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 18037.43040324314
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 20
+  },
+  "inner_MSE": 17346.86843999547
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 18028.540152378602
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 17443.914677224177
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 17292.315879794292
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 17520.12885482559
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "DT",
+  "best": {
+   "max_depth": 3,
+   "min_samples_leaf": 5
+  },
+  "best_inner_MSE": 17257.489328619427,
+  "tuning_seconds": 7.26992040395271
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.33
+  },
+  "inner_MSE": 17121.58040044604
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 17062.374899125472
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.6
+  },
+  "inner_MSE": 17239.66153830699
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1,
+   "max_features": 0.6
+  },
+  "inner_MSE": 16894.782620634738
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 16992.50677587239
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.6
+  },
+  "inner_MSE": 17101.40769467117
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 17064.43112890856
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 17207.52604736963
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "RF",
+  "best": {
+   "max_depth": 8,
+   "min_samples_leaf": 1,
+   "max_features": 0.6
+  },
+  "best_inner_MSE": 16894.782620634738,
+  "tuning_seconds": 541.8667210959829
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.05
+  },
+  "inner_MSE": 16718.19493619497
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 100,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 17100.001281180557
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 16944.629181992754
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 17684.693207975695
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 17070.14164283876
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 17182.00481799665
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "SVR",
+  "best": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.05
+  },
+  "best_inner_MSE": 16718.19493619497,
+  "tuning_seconds": 273.7923418559949
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 16873.36055087782
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 17142.924961665743
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 1
+  },
+  "inner_MSE": 17711.59646884421
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 5,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 19089.462543891077
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 17693.98834826227
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 20,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 16893.495283948407
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 18073.427086296706
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 2
+  },
+  "inner_MSE": 17321.322905768542
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "KNN",
+  "best": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 1
+  },
+  "best_inner_MSE": 16873.36055087782,
+  "tuning_seconds": 14.036202233983204
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17212.24519095569
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17476.754914145084
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17283.593577980413
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17434.615176255702
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 5,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17558.364758091084
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 18374.90197115387
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17128.314145200686
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 17890.351396371872
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17691.72018944903
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17923.939396196183
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "XGB",
+  "best": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 10
+  },
+  "best_inner_MSE": 17128.314145200686,
+  "tuning_seconds": 78.77028997801244
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 16684.729517432945
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 16985.1661989664
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 16489.893065898294
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.0001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 17400.180794076157
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "MLP",
+  "best": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "best_inner_MSE": 16489.893065898294,
+  "tuning_seconds": 335.85745987895643
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 18462.318994848123
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 18202.403847694764
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "LSTM",
+  "best": {
+   "hidden": 64
+  },
+  "best_inner_MSE": 18202.403847694764,
+  "tuning_seconds": 150.25746692199027
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "GRU",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 17960.690846495134
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "GRU",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 17910.159404385024
+ },
+ {
+  "Target": "Rainfall",
+  "Model": "GRU",
+  "best": {
+   "hidden": 64
+  },
+  "best_inner_MSE": 17910.159404385024,
+  "tuning_seconds": 103.01362728397362
+ },
+ {
+  "Target": "Temperature",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 0.1
+  },
+  "inner_MSE": 0.7595305299194733
+ },
+ {
+  "Target": "Temperature",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 1
+  },
+  "inner_MSE": 0.7589555385115994
+ },
+ {
+  "Target": "Temperature",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 10
+  },
+  "inner_MSE": 0.7538472438840486
+ },
+ {
+  "Target": "Temperature",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 100
+  },
+  "inner_MSE": 0.7375524291655524
+ },
+ {
+  "Target": "Temperature",
+  "Model": "Ridge",
+  "best": {
+   "alpha": 100
+  },
+  "best_inner_MSE": 0.7375524291655524,
+  "tuning_seconds": 0.618656167993322
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 1.580260512476042
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 1.1523094166664334
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 3,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 1.023566470510125
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 1.0133023028038781
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 0.8332985393185516
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 20
+  },
+  "inner_MSE": 0.8812404398108965
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 0.8313176593128562
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 0.8800084254976216
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 0.8538338895891151
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 0.9315753472005792
+ },
+ {
+  "Target": "Temperature",
+  "Model": "DT",
+  "best": {
+   "max_depth": null,
+   "min_samples_leaf": 50
+  },
+  "best_inner_MSE": 0.8313176593128562,
+  "tuning_seconds": 4.571406413044315
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.33
+  },
+  "inner_MSE": 0.7220327378481635
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 0.7119885282283351
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.6
+  },
+  "inner_MSE": 0.740770954908828
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1,
+   "max_features": 0.6
+  },
+  "inner_MSE": 0.7527630906992759
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 0.7751862087076737
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.6
+  },
+  "inner_MSE": 0.7258503765982341
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 0.7134052925836286
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 0.7470877635179116
+ },
+ {
+  "Target": "Temperature",
+  "Model": "RF",
+  "best": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "best_inner_MSE": 0.7119885282283351,
+  "tuning_seconds": 314.2377348410082
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.05
+  },
+  "inner_MSE": 0.67393284850743
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 100,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 0.7393992790720502
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 0.7194187432000496
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 0.811763627734972
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 0.6703746220456301
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 0.6528008876078039
+ },
+ {
+  "Target": "Temperature",
+  "Model": "SVR",
+  "best": {
+   "C": 1,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "best_inner_MSE": 0.6528008876078039,
+  "tuning_seconds": 142.66442191100214
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 0.7725495677465123
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 0.8041645118156202
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 1
+  },
+  "inner_MSE": 0.7478008373899031
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 5,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 0.7937368734546059
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 0.7521656515159558
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 20,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 0.7438271917282019
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 0.7798092073286391
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 2
+  },
+  "inner_MSE": 0.8242501534566306
+ },
+ {
+  "Target": "Temperature",
+  "Model": "KNN",
+  "best": {
+   "n_neighbors": 20,
+   "weights": "uniform",
+   "p": 1
+  },
+  "best_inner_MSE": 0.7438271917282019,
+  "tuning_seconds": 3.632077090034727
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.734108390390226
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.7310975912040935
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.7339337899469398
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.7372057318865209
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 5,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.745179134109528
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 0.7615258129047375
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.7356445712376021
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 0.7914626534369592
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.764330200173973
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 0.7651246844359952
+ },
+ {
+  "Target": "Temperature",
+  "Model": "XGB",
+  "best": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "best_inner_MSE": 0.7310975912040935,
+  "tuning_seconds": 39.156469724024646
+ },
+ {
+  "Target": "Temperature",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 0.672128081435583
+ },
+ {
+  "Target": "Temperature",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 0.7083199989802801
+ },
+ {
+  "Target": "Temperature",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 0.7120603837833068
+ },
+ {
+  "Target": "Temperature",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.0001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 0.7202427055679673
+ },
+ {
+  "Target": "Temperature",
+  "Model": "MLP",
+  "best": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.0
+  },
+  "best_inner_MSE": 0.672128081435583,
+  "tuning_seconds": 111.80993187602144
+ },
+ {
+  "Target": "Temperature",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 0.7860640150159408
+ },
+ {
+  "Target": "Temperature",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 0.8317411313108539
+ },
+ {
+  "Target": "Temperature",
+  "Model": "LSTM",
+  "best": {
+   "hidden": 32
+  },
+  "best_inner_MSE": 0.7860640150159408,
+  "tuning_seconds": 145.9603399769985
+ },
+ {
+  "Target": "Temperature",
+  "Model": "GRU",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 0.7630168785793511
+ },
+ {
+  "Target": "Temperature",
+  "Model": "GRU",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 0.7925892902490381
+ },
+ {
+  "Target": "Temperature",
+  "Model": "GRU",
+  "best": {
+   "hidden": 32
+  },
+  "best_inner_MSE": 0.7630168785793511,
+  "tuning_seconds": 231.77415463601938
+ },
+ {
+  "Target": "Humidity",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 0.1
+  },
+  "inner_MSE": 17.182721007783375
+ },
+ {
+  "Target": "Humidity",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 1
+  },
+  "inner_MSE": 17.18230470961908
+ },
+ {
+  "Target": "Humidity",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 10
+  },
+  "inner_MSE": 17.17842523881578
+ },
+ {
+  "Target": "Humidity",
+  "Model": "Ridge",
+  "params": {
+   "alpha": 100
+  },
+  "inner_MSE": 17.163142023782758
+ },
+ {
+  "Target": "Humidity",
+  "Model": "Ridge",
+  "best": {
+   "alpha": 100
+  },
+  "best_inner_MSE": 17.163142023782758,
+  "tuning_seconds": 0.6247486490174197
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 23.606786753545634
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 22.39399231423815
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 3,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 29.75450355982058
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 22.029469174874073
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 12,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 21.88424607825352
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 20
+  },
+  "inner_MSE": 23.326566818188283
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 21.88424607825352
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 1
+  },
+  "inner_MSE": 23.277343185689528
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 50
+  },
+  "inner_MSE": 23.569992404079414
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "params": {
+   "max_depth": 5,
+   "min_samples_leaf": 5
+  },
+  "inner_MSE": 23.22577507610636
+ },
+ {
+  "Target": "Humidity",
+  "Model": "DT",
+  "best": {
+   "max_depth": 12,
+   "min_samples_leaf": 50
+  },
+  "best_inner_MSE": 21.88424607825352,
+  "tuning_seconds": 5.151491321041249
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.33
+  },
+  "inner_MSE": 17.537320424352192
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 18.029560775039258
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.6
+  },
+  "inner_MSE": 17.61139159244918
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 1,
+   "max_features": 0.6
+  },
+  "inner_MSE": 17.85709600838302
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 8,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 18.273068288325234
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.6
+  },
+  "inner_MSE": 18.034595170155566
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": 16,
+   "min_samples_leaf": 10,
+   "max_features": 0.33
+  },
+  "inner_MSE": 18.02517619058006
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "params": {
+   "max_depth": null,
+   "min_samples_leaf": 10,
+   "max_features": 1.0
+  },
+  "inner_MSE": 17.907253550669658
+ },
+ {
+  "Target": "Humidity",
+  "Model": "RF",
+  "best": {
+   "max_depth": 16,
+   "min_samples_leaf": 5,
+   "max_features": 0.33
+  },
+  "best_inner_MSE": 17.537320424352192,
+  "tuning_seconds": 333.7832191780326
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.05
+  },
+  "inner_MSE": 17.295807035647698
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 100,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 18.710426262982715
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 20.532011179591187
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": "scale",
+   "epsilon": 0.05
+  },
+  "inner_MSE": 20.246899629343336
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 10,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 17.160953975093385
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "params": {
+   "C": 1,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "inner_MSE": 16.709716930600575
+ },
+ {
+  "Target": "Humidity",
+  "Model": "SVR",
+  "best": {
+   "C": 1,
+   "gamma": 0.01,
+   "epsilon": 0.2
+  },
+  "best_inner_MSE": 16.709716930600575,
+  "tuning_seconds": 209.1498450450017
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 19.88600844279669
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 19.129723058635765
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 1
+  },
+  "inner_MSE": 19.079161959431158
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 5,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 19.864188542813523
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 19.183003418262896
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 20,
+   "weights": "uniform",
+   "p": 1
+  },
+  "inner_MSE": 19.11225436178765
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 2
+  },
+  "inner_MSE": 18.505319805627668
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "params": {
+   "n_neighbors": 40,
+   "weights": "uniform",
+   "p": 2
+  },
+  "inner_MSE": 19.33949552196198
+ },
+ {
+  "Target": "Humidity",
+  "Model": "KNN",
+  "best": {
+   "n_neighbors": 10,
+   "weights": "distance",
+   "p": 2
+  },
+  "best_inner_MSE": 18.505319805627668,
+  "tuning_seconds": 4.034828535979614
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 16.70875053305694
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 16.713908155486052
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17.37695529545402
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17.45772457610691
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 5,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 16.77447373555799
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 16.264109356981646
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.03,
+   "subsample": 0.8,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 16.956510745633373
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.03,
+   "subsample": 1.0,
+   "colsample_bytree": 1.0,
+   "reg_lambda": 1
+  },
+  "inner_MSE": 17.522384620024255
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 16.085944701505767
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "params": {
+   "n_estimators": 200,
+   "max_depth": 7,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "inner_MSE": 17.098703436342536
+ },
+ {
+  "Target": "Humidity",
+  "Model": "XGB",
+  "best": {
+   "n_estimators": 500,
+   "max_depth": 3,
+   "learning_rate": 0.1,
+   "subsample": 1.0,
+   "colsample_bytree": 0.6,
+   "reg_lambda": 10
+  },
+  "best_inner_MSE": 16.085944701505767,
+  "tuning_seconds": 46.79184088204056
+ },
+ {
+  "Target": "Humidity",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 16.82826644571074
+ },
+ {
+  "Target": "Humidity",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 16.12753298745819
+ },
+ {
+  "Target": "Humidity",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "inner_MSE": 16.68070856678265
+ },
+ {
+  "Target": "Humidity",
+  "Model": "MLP",
+  "params": {
+   "hidden": [
+    64,
+    32
+   ],
+   "weight_decay": 0.0001,
+   "dropout": 0.0
+  },
+  "inner_MSE": 16.74459714892264
+ },
+ {
+  "Target": "Humidity",
+  "Model": "MLP",
+  "best": {
+   "hidden": [
+    128,
+    64
+   ],
+   "weight_decay": 0.001,
+   "dropout": 0.2
+  },
+  "best_inner_MSE": 16.12753298745819,
+  "tuning_seconds": 134.19158561399672
+ },
+ {
+  "Target": "Humidity",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 36.8410264676336
+ },
+ {
+  "Target": "Humidity",
+  "Model": "LSTM",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 35.73609997556187
+ },
+ {
+  "Target": "Humidity",
+  "Model": "LSTM",
+  "best": {
+   "hidden": 64
+  },
+  "best_inner_MSE": 35.73609997556187,
+  "tuning_seconds": 132.22255663602846
+ },
+ {
+  "Target": "Humidity",
+  "Model": "GRU",
+  "params": {
+   "hidden": 32
+  },
+  "inner_MSE": 32.96465477314155
+ },
+ {
+  "Target": "Humidity",
+  "Model": "GRU",
+  "params": {
+   "hidden": 64
+  },
+  "inner_MSE": 33.3423204329226
+ },
+ {
+  "Target": "Humidity",
+  "Model": "GRU",
+  "best": {
+   "hidden": 32
+  },
+  "best_inner_MSE": 32.96465477314155,
+  "tuning_seconds": 185.1923309720005
+ }
+]
